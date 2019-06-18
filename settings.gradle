@@ -1,1 +1,1 @@
-include ':app', ':myexperiment01_event_listening'
+include ':app', ':myexperiment01_event_listening', ':myexperiment02_mvvm'
